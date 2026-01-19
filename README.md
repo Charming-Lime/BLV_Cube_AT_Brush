@@ -7,3 +7,5 @@ Modifies the Armored Turtle brush found [here](https://github.com/ArmoredTurtle/
 The changed STL's are provided as well as STEP.
 
 You will need to replace the two M5x10 BHCS with M5x16 BHSC.
+
+If you need the longer arms the M3x35 SHCS will need to replaced with a M3x40 SHCS
